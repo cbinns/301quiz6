@@ -1,8 +1,8 @@
-// Alex Filbert
-
+// Partner: Alex Filbert ccid: afilbert
+// 
 
 /*
-signature
+signature:
 
 public int getIndex(int x);
 
@@ -20,11 +20,9 @@ public class Constructors {
         sortedArray.addInt(3);
         int i = sortedArray.getIndex(2);
 
-        // test getIndex
-        System.out.println("Find index of 2");
-        System.out.println("method returns: "+ i);
-        System.out.println("expected return: 1");
-       
-        
+        // test getIndex on index of 
+        System.out.println("TEST: Find index of 2 ");
+        System.out.println("Method returns: "+ i);
+        System.out.println("Expected return: 1");   
     }
 }
