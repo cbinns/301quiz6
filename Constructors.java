@@ -1,16 +1,14 @@
 // Partner: Alex Filbert ccid: afilbert
-// 
+// Carolyn Binns ccid: cbinns
 
 /*
-signature:
+method signature:
 
 public int getIndex(int x);
 
 */
 
 import java.util.ArrayList;
-
-
 
 public class Constructors {
     public static void main( String[] args) {
