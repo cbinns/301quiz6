@@ -18,11 +18,11 @@ public class Constructors {
         sortedArray.addInt(1);
         sortedArray.addInt(2);
         sortedArray.addInt(3);
-
+        int i = sortedArray.getIndex(2);
 
         // test getIndex
         System.out.println("Find index of 2");
-        //System.out.println("method returns: "+sortedArray.getIndex(2));
+        System.out.println("method returns: "+ i);
         System.out.println("expected return: 1");
        
         
